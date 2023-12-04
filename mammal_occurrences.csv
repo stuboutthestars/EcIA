@@ -1,0 +1,14 @@
+﻿eventID,habitatType,date,samplingTime,samplingProtocol,family,genus,species,commonName
+north1-1,bracken,12/9/2023,10:45,photo,Sciuridae,Sciurus,Sciurus vulgaris,Red squirrel
+north7-1,grassland,14/9/2023,17:42,photo,Leporidae,Oryctolagus,Oryctolagus cuniculus,Rabbit
+north7-2,grassland,14/9/2023,20:01,photo,Leporidae,Oryctolagus,Oryctolagus cuniculus,Rabbit
+north7-3,grassland,14/9/2023,20:29,photo,muridae,Apodemus,Apodemus sylvaticus,Wood mouse
+north5-1,grassland,13/9/2023,17:49,photo,Leporidae,Oryctolagus,Oryctolagus cuniculus,Rabbit
+north5-2,grassland,14/9/2023,04:04,photo,Leporidae,Oryctolagus,Oryctolagus cuniculus,Rabbit
+north8-1,grassland,14/9/2023,10:05,photo,Motacillidae,Anthus,Anthus pratensis,Meadow pipit
+north9-1,grassland,15/9/2023,02:41,photo,Eulipotyphla,Soricidae,Soricidae araneus,Shrew
+south2-1,bracken,13/9/2023,07:12,photo,Cervinae,Cervus,Cervus elaphus,Red deer
+south4-1,bracken,13/9/2023,22:31,photo,Cervinae,Cervus,Cervus elaphus,Red deer
+south5-1,grassland,14/9/2023,07:53,photo,Cervinae,Cervus,Cervus elaphus,Red deer
+south5-2,grassland,14/9/2023,08:18,photo,Cervinae,Cervus,Cervus elaphus,Red deer
+south5-3,grassland,14/9/2023,08:18,photo,Cervinae,Cervus,Cervus elaphus,Red deer
